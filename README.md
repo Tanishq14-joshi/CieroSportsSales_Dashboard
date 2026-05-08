@@ -61,16 +61,16 @@ The Ciero Sports Sales Dashboard is an interactive Power BI report designed to a
 ## 📁 Files Included
 | File | Description |
 |---|---|
-| `CieroSports_Dashboard.pbix` | Main Power BI dashboard file |
-| `CieroSports_Data.xlsx` | Raw sales dataset used for analysis |
-| `Dashboard_Screenshot.png` | Preview image of the dashboard |
-| `README.md` | Project documentation |
+| `https://github.com/Tanishq14-joshi/CieroSportsSales_Dashboard/blob/main/CieroSportsSalesDashboard_resume.pbix` | Main Power BI dashboard file |
+| `https://github.com/Tanishq14-joshi/CieroSportsSales_Dashboard/blob/main/Ciero_Sports_Sales_Data%20(1).xlsx` | Raw sales dataset used for analysis |
+| `https://github.com/Tanishq14-joshi/CieroSportsSales_Dashboard/blob/main/CieroSportsSalesDashboard_Photo.png` | Preview image of the dashboard |
+
 
 
 
 ## 👤 Author
 **[Your Name]**  
-Aspiring Data Analyst | Power BI Enthusiast  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile URL]  
-🐙 [GitHub Profile URL]
+Aspiring Business Analyst | Power BI Enthusiast  
+📧 [tanishqjoshi555@gmail.com]  
+🔗 [https://www.linkedin.com/in/tanishq-joshi-2022b6247/]  
+🐙 [https://github.com/Tanishq14-joshi]
